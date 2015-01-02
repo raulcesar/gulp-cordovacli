@@ -94,3 +94,10 @@ Eg:
 Type: `boolean`
 
 Default: `false`
+
+##### silent
+Type: `boolean`
+
+Default: `false`
+
+Description: Hide all output
